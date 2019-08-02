@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{site.url}}/{{site.picture}})
 
 <p>Newly introduced to programming. Struggling with everything but super enjoying them. Love to travel and take photos with old films. Reading mystery novels and diggin into my interests(lego, movies, and etc.) in spare time.</p>
 
