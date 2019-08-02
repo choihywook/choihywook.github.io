@@ -1,6 +1,6 @@
 # main text of home
 name: Hyung Wook Choi
-bio: Toddler Developer who love Liberal Arts
+bio: Toddler Developer who loves Liberal Arts
 
 # twitter summary info
 description: Blog of Everything and Anything
@@ -56,7 +56,7 @@ email: myemail@gmail.com
 authors:
     choihywook:
         name: Hyung Wook Choi
-        bio: Toddler Developer who love Liberal Arts
+        bio: Toddler Developer who loves Liberal Arts
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
