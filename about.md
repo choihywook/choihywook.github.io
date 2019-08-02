@@ -6,7 +6,7 @@ layout: page
 
 <p>Newly introduced to programming. Struggling with everything but super enjoying them. Love to travel and take photos with old films. Reading mystery novels and diggin into my interests(lego, movies, and etc.) in spare time.</p>
 
-<h2>Academic Interests</h2>
+<h2>Research Interests</h2>
 
 <ul class="skill-list">
 	<li>System Development</li>
