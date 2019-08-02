@@ -1,11 +1,9 @@
-```js
 ---
 layout: post
 title: 	Square One
 category: Daylog
 tags: [blog, jekyll, github.io]
 ---
-```
 
 
 
