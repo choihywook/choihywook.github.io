@@ -10,7 +10,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>System Development</li>
- 	 <li>Web Development</li>
+ 	<li>Web Development</li>
 	<li>Data-driven Informatics</li>
 	<li>Information Visualization</li>
 	<li>Network Analysis</li>
