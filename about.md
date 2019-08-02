@@ -46,9 +46,4 @@ layout: page
   <li>[4] Soon Kim, Hyung Wook Choi, Nayon Kim, EunKyung Chung, and Jae Yun Lee, “Comparative analysis of manuscript management systems for scholarly publishing,” Science Editing, 5(2), 124-134, Aug 2018. [SCOPUS]</li>
   <li>[5] Hyung Wook Choi, Ye-Jin Choi, and So-Yeon Nam, “Time Series Analysis of Intellectual Structure and Research Trend Changes in the Field of Library and Information Science: 2003 to 2017,” Journal of the Korean Society for Information Management, 35(2), 89-114, Jun 2018. [KCI, Accredited by National Research Foundation of Korea]</li>
   <li>[6] Hyung Wook Choi, EunKyung Chung, “An Investigation on Characteristics and Intellectual Structure of Sociology by Analyzing Cited Data,” Journal of the Korean Society for Information Management, 34(3), 109-124, Sep 2017. [KCI, Accredited by National Research Foundation of Korea]</li>
-  <style> 
- ul{ 
-    list-style:none; 
-    } 
- </style> 
 </ul>
