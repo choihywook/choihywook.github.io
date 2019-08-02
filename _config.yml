@@ -7,14 +7,14 @@ description: Blog of Everything and Anything
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets/choihywook_CV.pdf
 
 url: https://choihywook.github.io
 # your url: http://USERNAME.github.io
@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
+  shortname: choihywook # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -54,18 +54,12 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-    johndoe:
+    choihywook:
         name: Hyung Wook Choi
         bio: Toddler Developer who love Liberal Arts
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: Hyung Wook Choi
-        bio: Toddler Developer who love Liberal Arts
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
