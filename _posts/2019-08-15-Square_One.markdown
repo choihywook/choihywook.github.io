@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 	Square One
-category: Daylog
+category: blog
 tags: [blog, jekyll, github.io]
 ---
 
