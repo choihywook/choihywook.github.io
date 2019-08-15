@@ -1,8 +1,14 @@
 ---
+title: 	"Square One"
 layout: post
-title: 	Square One
+date: 2019-08-15
+headerImage: false
+tags: 
+- blog
+- jekyll
+- github.io
 category: blog
-tags: [blog, jekyll, github.io]
+Author: choihywook
 ---
 
 
