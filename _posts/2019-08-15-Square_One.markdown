@@ -13,7 +13,7 @@ Author: choihywook
 
 
 
-###Starting with Github and Jekyll to open up my first webpage.
+###Starting with Github and Jekyll to open up my first webpage
 
 
 

@@ -40,7 +40,7 @@ layout: page
 
 <h2>Publication</h2>
 <ul>
-	<li>[1] [forthcoming] Hyung Wook Choi, Ye-Jin Choi, Soon Kim, “Appling Status of Best Practice Guideline in SCIE journals,” Science Editing. [SCOPUS]</li>
+	<li>[1] Hyung Wook Choi, Ye-Jin Choi, Soon Kim, “Compliance of “Principles of transparency and best practice in scholarly publishing” in academic society published journals,” Science Editing, 6(2), 112-121, Aug 2019. [SCOPUS]</li>
 	<li>[2] Hyung Wook Choi, Ye Jin Choi, and Soon Kim, “Network analysis of scientific collaboration in North Korea,” Science Editing, 6(1), 25-34, Feb 2019. [SCOPUS]</li>
 	<li>[3] Soon Kim, Hyung Wook Choi, “Status of digital standards, licensing types, and archiving policies in Asian open access journals registered in Directory of Open Access Journals,” Science Editing, 6(1), 41-46, Feb 2019. [SCOPUS]</li>
   <li>[4] Soon Kim, Hyung Wook Choi, Nayon Kim, EunKyung Chung, and Jae Yun Lee, “Comparative analysis of manuscript management systems for scholarly publishing,” Science Editing, 5(2), 124-134, Aug 2018. [SCOPUS]</li>
