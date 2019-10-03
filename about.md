@@ -9,6 +9,7 @@ layout: page
 <h2>Research Interests</h2>
 
 <ul class="skill-list">
+	<li>Human-Coumputer Interaction</li>
 	<li>System Development</li>
  	<li>Web Development</li>
 	<li>Data-driven Informatics</li>
