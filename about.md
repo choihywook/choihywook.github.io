@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{site.url}}/{{site.picture}})
 
-<p>Newly introduced to programming. Struggling with everything but super enjoying them. Love to travel and take photos with old films. Reading mystery novels and diggin into my interests(lego, movies, and etc.) in spare time.</p>
+<p>My research Interests are web-based system, HCI specially designing customized information system, visualization of data-driven network, and open science. Love to travel and take photos with old films. Reading mystery novels and diggin into my interests(lego, movies, and etc.) in spare time.</p>
 <h2>Research Interests</h2>
 <ul class="skill-list">
 	<li>Human-Coumputer Interaction</li>
@@ -15,14 +15,12 @@ layout: page
 	<li>Network Analysis</li>
 </ul>
 
-
 <h2>Skills</h2>
 <ul class="skill-list">  
-	<li>HTML</li>  
+	<li>Python</li> 
+  <li>HTML</li>  
 	<li>CSS</li>  
-	<li>Javascript</li>  
-	<li>Python</li>  
-	<li>Java</li>  
+	<li>Javascript</li> 
 	<li>NodeXL</li>
 </ul>
 
@@ -36,7 +34,9 @@ layout: page
 
 <h2>Publication</h2>
 <ul>
-	<li>Hyung Wook Choi, Ye-Jin Choi, Soon Kim, “Compliance of “Principles of transparency and best practice in scholarly publishing” in academic society published journals,” Science Editing, 6(2), 112-121, Aug 2019. [SCOPUS]</li>
+	<li>[In Process] Couri VanDam, Bum Chul Kwon, Stephanie Chiuve, Hyung Wook Choi, Paul Entler, Shelia Cotton, Pang-Ning Tan, Jina Huh-Yoo “Improving Heart Disease Risk Through Quality-Focused Diet Logging: Pre-post Study of a Diet Quality Tracking App,” Plos One.</li>
+  <li>[In Process] Ye-Jin Choi, Hyung Wook Choi, Soon Kim, “Compliance of “Principles of transparency and best practice in scholarly publishing” in Korean academic society published journals,” Science Editing.</li>
+  <li>Hyung Wook Choi, Ye-Jin Choi, Soon Kim, “Compliance of “Principles of transparency and best practice in scholarly publishing” in academic society published journals,” Science Editing, 6(2), 112-121, Aug 2019. [SCOPUS]</li>
 	<li>Hyung Wook Choi, Ye Jin Choi, and Soon Kim, “Network analysis of scientific collaboration in North Korea,” Science Editing, 6(1), 25-34, Feb 2019. [SCOPUS]</li>
 	<li>Soon Kim, Hyung Wook Choi, “Status of digital standards, licensing types, and archiving policies in Asian open access journals registered in Directory of Open Access Journals,” Science Editing, 6(1), 41-46, Feb 2019. [SCOPUS]</li>
   <li>Soon Kim, Hyung Wook Choi, Nayon Kim, EunKyung Chung, and Jae Yun Lee, “Comparative analysis of manuscript management systems for scholarly publishing,” Science Editing, 5(2), 124-134, Aug 2018. [SCOPUS]</li>
