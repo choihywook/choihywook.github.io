@@ -4,16 +4,17 @@ layout: page
 ---
 ![Profile Image]({{site.url}}/{{site.picture}})
 
-<p>My research Interests are web-based system, HCI specially designing customized information system, visualization of data-driven network, and open science. Love to travel and take photos with old films. Reading mystery novels and diggin into my interests(lego, movies, and etc.) in spare time.</p>
+<p>My research Interests are data visualization, HCI specially designing customized information system, data-driven network analysis, and open science. Love to travel and take photos with old films. Reading mystery novels and diggin into my interests(lego, movies, and etc.) in spare time.</p>
 <h2>Research Interests</h2>
 <ul class="skill-list">
+  <li>Data Visualization</li>
 	<li>Human-Coumputer Interaction</li>
-	<li>System Development</li>
- 	<li>Web Development</li>
 	<li>Data-driven Informatics</li>
-	<li>Information Visualization</li>
 	<li>Network Analysis</li>
+  <li>Open Science</li>
+  <li>Web Development</li>
 </ul>
+
 
 <h2>Skills</h2>
 <ul class="skill-list">  
@@ -23,18 +24,16 @@ layout: page
 	<li>Javascript</li> 
 	<li>NodeXL</li>
 </ul>
-
-
 <h2>Education</h2>
 <ul>
-	<li>M.S. in Information Systems / Drexel University</li>
+	<li>M.S. in Data Science / Drexel University</li>
 	<li>M.A. in Library and Information / Ewha Womans University</li>
 	<li>B.A. in Library and Information / Ewha Womans University</li>
 </ul>
 
 <h2>Publication</h2>
 <ul>
-	<li>[In Process] Couri VanDam, Bum Chul Kwon, Stephanie Chiuve, Hyung Wook Choi, Paul Entler, Shelia Cotton, Pang-Ning Tan, Jina Huh-Yoo “Improving Heart Disease Risk Through Quality-Focused Diet Logging: Pre-post Study of a Diet Quality Tracking App,” Plos One.</li>
+	<li>VanDam, C., Kwon, B. C., Chiuve, S., Choi, H. W., Entler, P., Tan, P. N., & Huh-Yoo, J. (2020). Improving Heart disease risk through quality-focused diet logging: pre-post study of a diet quality tracking app. bioRxiv.</li>
   <li>[In Process] Ye-Jin Choi, Hyung Wook Choi, Soon Kim, “Compliance of “Principles of transparency and best practice in scholarly publishing” in Korean academic society published journals,” Science Editing.</li>
   <li>Hyung Wook Choi, Ye-Jin Choi, Soon Kim, “Compliance of “Principles of transparency and best practice in scholarly publishing” in academic society published journals,” Science Editing, 6(2), 112-121, Aug 2019. [SCOPUS]</li>
 	<li>Hyung Wook Choi, Ye Jin Choi, and Soon Kim, “Network analysis of scientific collaboration in North Korea,” Science Editing, 6(1), 25-34, Feb 2019. [SCOPUS]</li>
