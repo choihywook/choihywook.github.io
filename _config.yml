@@ -1,7 +1,6 @@
 # main text of home
 name: Hyung Wook Choi
 bio: Explorer pushing my boundaries
-     Fail better, Learn from past, Rebound and do better
 
 # twitter summary info
 description: Blog of Everything and Anything
@@ -57,7 +56,7 @@ email: myemail@gmail.com
 authors:
     choihywook:
         name: Hyung Wook Choi
-        bio: A single equation that can explain everything
+        bio: Fail better, Learn from past, Rebound and do better
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
