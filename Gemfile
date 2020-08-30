@@ -1,4 +1,5 @@
-source "https://rubygems.org"
+source 'http://rubygems.org'
 
-gem "jekyll", "~> 3.6.2"
-gem "github-pages", "~> 168"
+gem 'github-pages'
+gem 'html-proofer'
+gem 'jekyll-admin'
