@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{site.url}}/{{site.picture}})
 
-<p>My research Interests are navigating semantic disambiguation and cultivating unperceived connectivites among different fields. </p>
+<p>My research Interests are navigating semantic disambiguation and cultivating unperceived connectivites among different fields. This would allow researchers to identify other acdemia for collaborations, which will push out the existing boundaries.</p>
 <h2>Research Interests</h2>
 <ul class="skill-list">
   <li>Semantic Disambiguation</li>
