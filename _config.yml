@@ -36,13 +36,13 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
-# google: mygoogle
-instagram: myinstagram
+google: https://scholar.google.co.kr/citations?user=zQrKpPoAAAAJ&hl=ko
+# instagram: myinstagram
 # pinterest: mypinterest
-linkedin: mylinkedin
+# linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: mygithub
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: shinywook92@gmail.com
 
 authors:
     choihywook:
@@ -59,7 +59,7 @@ authors:
         bio: Fail better, Learn from past, Rebound and do better
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
