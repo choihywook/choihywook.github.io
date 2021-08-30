@@ -36,7 +36,7 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 # twitter: mytwitter
-google: https://scholar.google.co.kr/citations?user=zQrKpPoAAAAJ&hl=ko
+# google: https://scholar.google.co.kr/citations?user=zQrKpPoAAAAJ&hl=ko
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
@@ -51,7 +51,7 @@ google: https://scholar.google.co.kr/citations?user=zQrKpPoAAAAJ&hl=ko
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: shinywook92@gmail.com
+# email: shinywook92@gmail.com
 
 authors:
     choihywook:
