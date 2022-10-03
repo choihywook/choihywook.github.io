@@ -36,7 +36,8 @@ layout: page
 </ul>
 <h2>Education</h2>
 <ul>
-	<li>M.S. in Data Science / Drexel University</li>
-	<li>M.A. in Library and Information / Ewha Womans University</li>
-	<li>B.A. in Library and Information / Ewha Womans University</li>
+	<li>Ph.D. in Information Science / Drexel University / 2022.09 - </li>
+	<li>M.S.  in Data Science / Drexel University / 2019.09 - 2022.03 </li>
+	<li>M.A.  in Library and Information / Ewha Womans University / 2015.09 - 2017.08 </li>
+	<li>B.A.  in Library and Information / Ewha Womans University / 2011.03 - 2015.08 </li>
 </ul>
