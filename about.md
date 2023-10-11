@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{site.url}}/{{site.picture}})
 
-<p>My research Interests are navigating semantic disambiguation and cultivating unperceived connectivites among different fields. This would allow researchers to identify other acdemia for collaborations, which will push out the existing boundaries. To follow on my latest research, please go to ORCID or Google Scholar!</p>
+<p>My research Interests are navigating semantic disambiguation and cultivating unperceived connectivities among different fields. This would allow researchers to identify other acdemia for collaborations, which will push out the existing boundaries. To follow my latest research, please visit ORCID or Google Scholar!</p>
 
 <ul class="skill-list">  
 	<li>
